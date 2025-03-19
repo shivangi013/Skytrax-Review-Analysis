@@ -23,25 +23,25 @@ This project is a data analysis simulation focused on British Airways (BA) custo
 
 🛠️ Project Structure<br>
 
-Skytrax-Review-Analysis/
-├── Data/
-│   ├── raw_data.csv
-│   ├── cleaned_data.csv
-├── Notebooks/
-│   ├── data_cleaning.ipynb
-│   ├── sentiment_analysis.ipynb
-│   ├── topic_modeling.ipynb
-│   ├── visualization.ipynb
+Skytrax-Review-Analysis/<br>
+├── Data/<br>
+│   ├── raw_data.csv<br>
+│   ├── cleaned_data.csv<br>
+├── Notebooks/<br>
+│   ├── data_cleaning.ipynb<br>
+│   ├── sentiment_analysis.ipynb<br>
+│   ├── topic_modeling.ipynb<br>
+│   ├── visualization.ipynb<br>
 ├── Outputs/
-│   ├── sentiment_distribution.png
-│   ├── topic_wordcloud.png
-│   ├── insights_summary.pptx
-├── README.md
+│   ├── sentiment_distribution.png<br>
+│   ├── topic_wordcloud.png<br>
+│   ├── insights_summary.pptx<br>
+├── README.md<br>
 
 📥 Data Collection<br>
 
 1. Reviews were scraped from Skytrax using BeautifulSoup.
-2. Customer feedback data includes information on seat comfort, food quality, staff service, and overall satisfaction.
+2. Customer feedback data includes information on seat comfort, food quality, staff service, and overall satisfaction.<br>
 
 🧹 Data Cleaning<br>
 
