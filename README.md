@@ -21,23 +21,6 @@ This project is a data analysis simulation focused on British Airways (BA) custo
 5. Gensim for topic modeling
 6. Matplotlib and Seaborn for data visualization
 
-🛠️ Project Structure<br>
-
-Skytrax-Review-Analysis/<br>
-├── Data/<br>
-│   ├── raw_data.csv<br>
-│   ├── cleaned_data.csv<br>
-├── Notebooks/<br>
-│   ├── data_cleaning.ipynb<br>
-│   ├── sentiment_analysis.ipynb<br>
-│   ├── topic_modeling.ipynb<br>
-│   ├── visualization.ipynb<br>
-├── Outputs/
-│   ├── sentiment_distribution.png<br>
-│   ├── topic_wordcloud.png<br>
-│   ├── insights_summary.pptx<br>
-├── README.md<br>
-
 📥 Data Collection<br>
 
 1. Reviews were scraped from Skytrax using BeautifulSoup.
